@@ -1,0 +1,5 @@
+<resources>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_home_fragment">Home Fragment</string>
+    <string name="cta_go_to_detail">Go to Detail</string>
+</resources>

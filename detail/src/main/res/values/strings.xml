@@ -1,0 +1,6 @@
+<resources>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_detail_fragment">Detail Fragment</string>
+    <string name="cta_go_to_promotion">Go to Promotion</string>
+</resources>
