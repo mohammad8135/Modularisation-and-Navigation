@@ -7,6 +7,11 @@
     <fragment
         android:id="@+id/fragment_detail"
         android:label="@string/hello_detail_fragment"
-        android:name="com.novina.navigation.feature.detail.ui.DetailFragment" />
+        android:name="com.novina.navigation.feature.detail.ui.DetailFragment" >
+        <argument
+            android:name="DetailFragmentNavigationArg"
+            app:argType="integer" />
+    </fragment>
+
 
 </navigation>

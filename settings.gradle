@@ -16,3 +16,5 @@ rootProject.name = "Navigation Playground"
 include ':app'
 include ':home'
 include ':detail'
+include ':detail:api'
+include ':core'
