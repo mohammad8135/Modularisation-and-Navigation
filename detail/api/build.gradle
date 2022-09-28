@@ -1,0 +1,5 @@
+apply from: "../../scripts/common.gradle"
+
+android {
+    namespace 'com.novina.navigation.lib.detail.api'
+}
