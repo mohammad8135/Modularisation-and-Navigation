@@ -2,7 +2,7 @@ package com.novina.navigation.core.navigation
 
 import javax.inject.Inject
 
-class MainNavigator @Inject constructor(
+class AppNavigator @Inject constructor(
     private val navigators: Map<Class<out Navigator.Route>, @JvmSuppressWildcards Navigator>
 ) :Navigator {
     override fun navigate(params: Navigator.Params) {
